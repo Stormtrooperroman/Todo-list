@@ -1,0 +1,35 @@
+
+body{
+    background-color: #6b92b9;
+    height: 100vh;
+    width: 100vw; 
+}
+#TodoList{
+    display: inline-block;
+    
+    border: solid black;
+    border-style: dotted;
+    margin-left: 50px;
+    width: 400px;
+}
+#Done{
+    display: inline-block;
+    border:1px solid black;
+    width: 400px; 
+
+}
+#main_footer{
+    position: fixed; 
+    left: 0; bottom: 0; 
+    width: 100%;
+}
+#footer {
+    display: inline-block;
+    margin-left: 70%;
+    padding: 10px;
+   }
+#title {
+    text-align: center;
+}
+
+
